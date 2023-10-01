@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.27d8d90b.css",
-    "main.js": "/test/static/js/main.b87e0013.js",
-    "static/js/787.0c3f432a.chunk.js": "/test/static/js/787.0c3f432a.chunk.js",
-    "static/media/Montserrat-Bold.ttf": "/test/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
-    "static/media/Poppins-Black.ttf": "/test/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
-    "index.html": "/test/index.html",
-    "main.27d8d90b.css.map": "/test/static/css/main.27d8d90b.css.map",
-    "main.b87e0013.js.map": "/test/static/js/main.b87e0013.js.map",
-    "787.0c3f432a.chunk.js.map": "/test/static/js/787.0c3f432a.chunk.js.map"
+    "main.css": "/static/css/main.5a4f8093.css",
+    "main.js": "/static/js/main.78e83d8b.js",
+    "static/js/787.0c3f432a.chunk.js": "/static/js/787.0c3f432a.chunk.js",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Poppins-Black.ttf": "/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
+    "index.html": "/index.html",
+    "main.5a4f8093.css.map": "/static/css/main.5a4f8093.css.map",
+    "main.78e83d8b.js.map": "/static/js/main.78e83d8b.js.map",
+    "787.0c3f432a.chunk.js.map": "/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27d8d90b.css",
-    "static/js/main.b87e0013.js"
+    "static/css/main.5a4f8093.css",
+    "static/js/main.78e83d8b.js"
   ]
 }
