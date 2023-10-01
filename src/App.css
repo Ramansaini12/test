@@ -250,6 +250,12 @@
 
 @media screen and (min-width: 992px) {
 
+
+  .exp-image {
+    height: 630px;
+    width: 100%;
+  }
+
   .heading-top {
     position: absolute;
     top: 40% !important;
@@ -276,9 +282,25 @@
     word-wrap: break-word
   }
 
+  .right-button {
+    position: absolute;
+    top: 60% !important;
+    right: 10% !important;
+  }
+
+  .text-view {
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    color: white;
+
+  }
+
   .paragraph-exp {
     position: absolute;
-    top: 80% !important;
+    top: 90% !important;
     left: 10% !important;
     color: white;
     font-size: 18px;
@@ -351,6 +373,24 @@
 }
 
 @media screen and (max-width: 991px) {
+  .exp-image {
+    height: 184px;
+    width: 100%;
+  }
+
+  .exp-top {
+    position: absolute;
+    top: 30% !important;
+    width: 100%;
+    margin-inline: auto;
+    color: #c2278e;
+    font-size: 30px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 72px;
+    word-wrap: break-word
+  }
 
   .heading-top {
     position: absolute;
@@ -389,6 +429,17 @@
     text-transform: capitalize;
     line-height: 30px;
     word-wrap: break-word;
+  }
+
+
+  .text-view {
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    color: white;
+
   }
 
   .img-vector {

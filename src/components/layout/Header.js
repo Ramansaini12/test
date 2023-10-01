@@ -45,20 +45,20 @@ const Header = () => {
                                         </Nav.Link>
                                     </Nav>
                                     <Nav className="mx-auto">
-                                        <Nav.Link href="#pricing">
+                                        <Nav.Link href="javascript:void(0)" >
                                             <Link to="/our-services" className="text-decoration-none text-dark">
                                                 OUR SERVICES
                                             </Link>
                                         </Nav.Link>
                                     </Nav>
                                     <Nav className="mx-auto">
-                                        <Nav.Link href="#pricing">
+                                        <Nav.Link href="javascript:void(0)" >
                                             <Link to="/our-experience" className="text-decoration-none text-dark">OUR EXPERIENCE
                                             </Link>
                                         </Nav.Link>
                                     </Nav>
                                     <Nav className="mx-auto">
-                                        <Nav.Link href="#pricing">
+                                        <Nav.Link href="javascript:void(0)" >
                                             <Link to="/resources" className="text-decoration-none text-dark">
                                                 RESOURCES
                                             </Link></Nav.Link>
