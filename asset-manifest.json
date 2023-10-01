@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.6065040f.css",
+    "main.js": "/react-gh-pages/static/js/main.8e9815a9.js",
+    "static/js/787.0c3f432a.chunk.js": "/react-gh-pages/static/js/787.0c3f432a.chunk.js",
+    "static/media/Montserrat-Bold.ttf": "/react-gh-pages/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Poppins-Black.ttf": "/react-gh-pages/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
+    "index.html": "/react-gh-pages/index.html",
+    "main.6065040f.css.map": "/react-gh-pages/static/css/main.6065040f.css.map",
+    "main.8e9815a9.js.map": "/react-gh-pages/static/js/main.8e9815a9.js.map",
+    "787.0c3f432a.chunk.js.map": "/react-gh-pages/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6065040f.css",
+    "static/js/main.8e9815a9.js"
+  ]
+}
