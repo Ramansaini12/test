@@ -6,7 +6,7 @@ const About = () => {
         <React.Fragment>
             <div className="overflow-hidden container-fluid" style={{ backgroundColor: '#C2278E', height: '573px' }}>
                 <div className=" position-relative">
-                    <Image className="img-vector  px-5 mr-5 " style={{ backgroundColor: '#C2278E' }} src="assets/images/vector-48.png" />
+                    <Image className="img-vector  px-5 mr-5 " style={{ backgroundColor: '#C2278E' }} src="/assets/Images/vector-48.png" />
                 </div>
                 <div className=" text-center">
                     <p className="text-wrap heading-top text-white ">About Olvera</p>
@@ -22,13 +22,13 @@ const About = () => {
                 </div>
                 <div className="d-flex flex-row img-about mb-3 flex-wrap">
                     <div className="image-fluid position-image">
-                        <Image className="img-1 " src="assets/images/about-1.png" />
-                        <Image className="img-2 " src="assets/images/about-2.png" />
+                        <Image className="img-1 " src="/assets/Images/about-1.png" />
+                        <Image className="img-2 " src="/assets/Images/about-2.png" />
 
                     </div>
                     <div className="image-fluid position-image position-image2">
-                        <Image className="img-3 " src="assets/images/about-3.png" />
-                        <Image className="img-4" src="assets/images/about-4.png" />
+                        <Image className="img-3 " src="/assets/Images/about-3.png" />
+                        <Image className="img-4" src="/assets/Images/about-4.png" />
                     </div>
 
 

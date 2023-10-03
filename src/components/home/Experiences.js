@@ -5,7 +5,7 @@ const Experiences = () => {
         <React.Fragment>
             <div className="overflow-hidden container-fluid" style={{ height: '573px' }}>
                 <div className=" position-relative">
-                    <Image className="exp-image " style={{ height: '630px', }} src="assets/images/exp-bg.png" />
+                    <Image className="exp-image " style={{ height: '630px', }} src="/assets/Images/exp-bg.png" />
                 </div>
                 <div className=" text-center">
                     <p className="text-wrap exp-top  ">Olvera Guides</p>

@@ -15,10 +15,10 @@ const Footer = () => {
                 <div class="d-flex flex-row mb-3 flex-wrap ">
                     <div class="flex-item1" >
                         <div>
-                            <Image className="mb-4 footer-logo" src="/assets/images/first-logo.png" />
+                            <Image className="mb-4 footer-logo" src="/assets/Images/first-logo.png" />
                         </div>
                         <div>
-                            <Image className="mb-4" src="/assets/images/first-capital.png" />
+                            <Image className="mb-4" src="/assets/Images/first-capital.png" />
                         </div>
                         <p className="  text-white" style={{
                             fontWeight: '400',
